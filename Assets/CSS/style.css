@@ -1,0 +1,54 @@
+.jumbotron {
+    text-align: center;
+    background: navy;
+    color: white;
+}
+
+.container1 {
+    background: gray;
+    margin-left: 125px;
+    margin-right: 125px;
+}
+
+button {
+    margin: 20px;
+    padding: 10px;
+    background: red;
+    color: white;
+}
+
+.container2 {
+    margin-left: 125px;
+    margin-right: 125px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.quote {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+    font-family: "baskerville"; 
+    font-style: italic;
+    font-size: 30px;
+    color: navy;
+    padding: 10px;
+}
+
+.form-group {
+    padding-left: 20px;
+    display: inline-block;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.container3 {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.gif {
+    float: left;
+    padding: 20px;
+}

@@ -1,1 +1,1 @@
-# Giphy-Political
+# Political-Gifs-App
